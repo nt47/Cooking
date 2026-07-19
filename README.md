@@ -1,6 +1,6 @@
 # Cooking
 
-| Set Menu 1                                                 | Justify |      |
+| Set Meal 1                                                 | Justify |      |
 | ---------------------------------------------------------- | ------- | ---- |
 | Boiled meat , Dip in **yogurt** as a salad dressing        | ⭐⭐      | ✅    |
 | Green Vegetables                                           | ⭐       | ✅    |
